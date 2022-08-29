@@ -1,6 +1,6 @@
 ## RODE Microphones UI 
 
-This Responsive website is developed using `Tailwing CSS`- CDN
+This Responsive website is developed using `Tailwind CSS`- CDN
 
 ### While doing this -- Learnt:
 - How to use images as background and how to deal with them while having a responsive design.
